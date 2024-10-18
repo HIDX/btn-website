@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test_Pembelian_Barang</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>90e76699-0c28-41c4-88cd-08e8cdd68727</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ff7cec7b-ac24-485f-a52c-0a5f6ee90223</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ff7cec7b-ac24-485f-a52c-0a5f6ee90223</id>
+      <masked>false</masked>
+      <name>Product</name>
+   </variable>
+</TestCaseEntity>
